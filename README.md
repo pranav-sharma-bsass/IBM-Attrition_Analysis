@@ -90,11 +90,9 @@ Low job satisfaction consistently drove attrition across all groups. Creating a 
 
 ---
 
-## Visualisations
-
-![Salary vs Attrition](visualisations/Salary-vs-Attrition)
-![Work-Life Balance vs Attrition](visualisations/Work-vs-Attrition)
-![Job Satisfaction vs Attrition](visualisations/Satisfaction-vs-Attrition)
+![Salary vs Attrition](visualisations/Salary-vs-Attrition.png)
+![Work-Life Balance vs Attrition](visualisations/Work-vs-Attrition.png)
+![Job Satisfaction vs Attrition](visualisations/Satisfaction-vs-Attrition.png)
 
 ---
 
