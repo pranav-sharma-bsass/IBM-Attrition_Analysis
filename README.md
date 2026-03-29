@@ -105,7 +105,7 @@ Bad work-life balance was the single strongest predictor of attrition in this an
 **4. Make work feel worth staying for**  
 Low job satisfaction consistently drove attrition across all groups. Creating a more interactive, growth-oriented work environment - through mentorship, clear feedback, skill-building opportunities, and recognition - directly addresses the dissatisfaction that pushes employees out.
 
-> These recommendations follow directly from the analysis. Each one maps to a statistically significant finding — not assumptions.
+> These recommendations follow directly from the analysis. Each one maps to a statistically significant finding - not assumptions.
 
 ---
 
